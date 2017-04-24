@@ -17,7 +17,7 @@ Stretch Goal:
 Create a function canDrink() that returns all the users who's of drinking age
 
 Super Stretch Goal:
-Create a function groupByEmplorer() that returns all the users but are sorted and grouped by their employer.
+Create a function groupByEmplorer() that returns all the users but are grouped by their employer and then sorted by their name.
 
 Ex. [
   all st ...
